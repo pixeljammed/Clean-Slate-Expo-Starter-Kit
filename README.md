@@ -1,4 +1,4 @@
-i<p align="center">
+<p align="center">
     <img alt="Firestarter Expo StarterKit logo" src="https://files.catbox.moe/u53jex.png"/>
 </p>
 
