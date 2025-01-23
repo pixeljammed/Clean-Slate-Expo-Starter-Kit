@@ -2,6 +2,8 @@
     <img alt="Firestarter Expo StarterKit logo" src="https://files.catbox.moe/u53jex.png"/>
 </p>
 
+## INCOMPLETE - not publically avaliable right now.
+
 <h1 align="center">
   FIRESTARTER - a react native / expo template
 </h1>
