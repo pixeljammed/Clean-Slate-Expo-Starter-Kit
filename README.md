@@ -1,5 +1,6 @@
 <p align="center">
-    <h1> FIRESTARTER - a react native / expo template </h1>
+    <h1> FIRESTARTER </h1>
+    <h2>  a react native / expo template </h2>
     <img alt="Firestarter Expo StarterKit logo" src="https://files.catbox.moe/u53jex.png"/>
 </p>
 
